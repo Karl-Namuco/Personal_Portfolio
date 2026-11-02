@@ -10,7 +10,7 @@ const projects = [
     category: 'Civic technology',
     description: 'An AI-assisted barangay concern management application that helps organize incoming reports and make their status easier to follow.',
     details: ['Automated concern categorization and prioritization', 'Report deduplication and clustering', 'Real-time concern status tracking'],
-    technologies: ['Laravel', 'PHP', 'MySQL', 'React', 'TypeScript', 'Inertia.js', 'Tailwind CSS', 'Gemini AI API'],
+    technologies: ['Laravel', 'PHP', 'MySQL', 'React + TypeScript', 'Inertia.js', 'Gemini AI'],
     image: '/assets/projects/mission-lokal.jpg',
     url: 'https://mission-lokal.com/',
     visual: 'mission',

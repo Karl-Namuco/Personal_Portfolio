@@ -31,7 +31,6 @@ const skillGroups = [
     id: '06',
     title: 'AI & AI-assisted tools',
     items: ['DeepSeek', 'Claude', 'Gemini', 'ChatGPT', 'Cursor', 'Google AI Studio'],
-    note: 'Hands-on experience using Google AI Studio for Mission-Lokal.',
   },
 ]
 

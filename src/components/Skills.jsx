@@ -20,7 +20,7 @@ const skillGroups = [
   {
     id: '04',
     title: 'System Administration',
-    items: ['Fedora Server', 'Ubuntu', 'Linux', 'Samba File Sharing', 'Backup & Recovery', 'User & Group Permissions'],
+    items: ['VirtualBox', 'Fedora Server', 'Ubuntu', 'Linux', 'Samba File Sharing', 'Backup & Recovery', 'User & Group Permissions'],
   },
   {
     id: '05',

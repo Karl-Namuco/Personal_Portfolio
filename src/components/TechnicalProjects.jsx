@@ -12,8 +12,8 @@ const projects = [
   {
     number: '02',
     title: 'Linux server deployment',
-    text: 'Deployed a centralized Fedora Server for shared services, file access, and routine administration.',
-    details: ['Custom DNS · DHCP', 'Samba file sharing', 'Admin & Staff permissions', 'Backup & recovery'],
+    text: 'Deployed a centralized Fedora Server in VirtualBox for shared services, file access, and routine administration.',
+    details: ['VirtualBox lab environment', 'Custom DNS · DHCP', 'Samba file sharing', 'Admin & Staff permissions', 'Backup & recovery'],
   },
   {
     number: '03',

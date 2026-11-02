@@ -46,7 +46,7 @@ const projects = [
     category: 'Audit & reporting',
     description: 'A web-based tool for a waste management audit project.',
     details: [],
-    technologies: ["Python, Streamlit"],
+    technologies: ["Python", "Streamlit"],
     image: '/assets/projects/waste-management-audit.jpg',
     url: 'https://ite3-waste-management-audit-namuco.streamlit.app/',
     visual: 'waste',
